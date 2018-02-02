@@ -155,3 +155,4 @@ for(i in 2:length(coin)){
 }
 
 
+saveRDS(full, "Coins.RDS")
