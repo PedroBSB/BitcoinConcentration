@@ -1,10 +1,12 @@
 ---
-title: "Market efficiency"
+title: "Efficient market hypothesis"
 output: word_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+#Update the Price Dataset
+source("DataCollection.R")
 ```
 
 ## R Markdown
